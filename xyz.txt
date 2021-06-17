@@ -1,2 +1,3 @@
 changes from developer 1
 changes from developer 2
+learning git in detail from developer 1 folder.
